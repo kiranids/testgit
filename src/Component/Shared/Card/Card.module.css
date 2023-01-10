@@ -1,0 +1,19 @@
+.cards{
+    
+    width: 219px;
+    height: 146px;
+    left: 760px;
+    top: 578px;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    }
+    
+    .cards-txt{
+        position: absolute;
+    width: 150px;
+    height: 35px;
+    left: 776px;
+    top: 680px;}
